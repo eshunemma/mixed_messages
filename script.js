@@ -30,6 +30,7 @@ switch(item){
 }
 }
 
-function name(params) {
+function storeMessage(arr) {
+    console.log(finalPrint.join('\n'))
 }
-console.log(finalPrint.join('\n'))
+storeMessage()
